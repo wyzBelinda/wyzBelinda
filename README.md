@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Belinda 👋
 
-<!--
-**wyzBelinda/wyzBelinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building AI Agent systems for rare disease diagnosis.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Multi-Agent Systems
+- AI for Science
+- Rare Disease
+- LLM Engineering
+- Agent Bridge for High-Impact domains
+- Human-AI Coevolution
+
+## Current Focus
+
+- Building clinical AI agents
+- Exploring agent architectures
+- Open-source development
+
+## Contact
+
+LinkedIn:
+https://www.linkedin.com/in/yuzhuo-belinda-wu
+
+Email:
+wyzbelinda@outlook.com
