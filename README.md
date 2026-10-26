@@ -56,4 +56,4 @@ LinkedIn:
 https://www.linkedin.com/in/yuzhuo-belinda-wu
 
 Email:
-wyzbelinda@outlook.com
+wyzbelinda@gmail.com
